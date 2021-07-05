@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": ".leetcode",
+			"path": "."
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"type": "pwa-node",
+				"request": "launch",
+				"name": "Launch Program",
+				"skipFiles": [
+					"<node_internals>/**"
+				],
+				"program": "/Users/hongl/.leetcode/84.柱状图中最大的矩形.js",
+				"__workspaceFolder": "/Users/hongl/.leetcode"
+			}
+		]
+	}
+}
